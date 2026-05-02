@@ -3,7 +3,7 @@
 # Fahad Faheem
 <!-- ### Software Engineer (Full Stack) -->
 
-3+ years building production web software and AI powered applications from system design and data modeling to deployment. I build things that work, scale, and are powerful enough to matter
+I build things that work, scale, and are powerful enough to matter
 
 ---
 
