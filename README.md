@@ -1,8 +1,10 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=160&section=header" />
+</div>
+
+<div align="center">
 
 # Fahad Faheem
-<!-- ### Software Engineer -->
-
 I build things that work, scale, and are powerful enough to matter
 
 ---
@@ -29,8 +31,39 @@ I build things that work, scale, and are powerful enough to matter
 
 ---
 
-## Additional Information
+## Projects
 
-**Languages:** Pashto *(native)* · Urdu *(fluent)* · English *(fluent)*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Location:** Peshawar, Khyber Pakhtunkhwa, Pakistan
+### Business Management Platform
+Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration with strict data isolation, and Redis-backed query optimization.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+[**Live App →**](https://manager.luminair.company)
+
+</td>
+<td width="50%" valign="top">
+
+### AI Assistant Platform
+Platform for embedding custom AI assistants into organizational websites. Built with RAG pipelines, vector search via Qdrant, and dynamic tool calling — significantly reducing manual support workload.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=160&section=footer" />
+</div>
