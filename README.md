@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=160&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2744&height=160&section=header" />
 </div>
 
 <div align="center">
@@ -37,15 +37,13 @@ I build things that work, scale, and are powerful enough to matter
 <tr>
 <td width="50%" valign="top">
 
-### Business Management Platform
+### [Business Management Platform](https://manager.luminair.company)
 Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration with strict data isolation, and Redis-backed query optimization.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-[**Live App →**](https://manager.luminair.company)
 
 </td>
 <td width="50%" valign="top">
@@ -65,5 +63,5 @@ Platform for embedding custom AI assistants into organizational websites. Built 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=160&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2744&height=160&section=footer" />
 </div>
