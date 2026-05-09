@@ -1,7 +1,7 @@
 <div align="center">
 
 # Fahad Faheem
-<!-- ### Software Engineer (Full Stack) -->
+### Software Engineer
 
 I build things that work, scale, and are powerful enough to matter
 
