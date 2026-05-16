@@ -59,8 +59,8 @@ Platform for embedding custom AI assistants into organizational websites. Built 
 </tr>
 </table>
 
----
+<!-- --- -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2744&height=160&section=footer" />
-</div>
+</div> -->
